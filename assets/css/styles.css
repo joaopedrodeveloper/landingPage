@@ -240,4 +240,14 @@
     .menu-spacing {
         display: none;
     }
+    .intro-img {
+        display: none;
+    }
+    .title-home{
+        font-size: 13vw;
+    }
+    .grid-main-heading {
+        font-size: 17vw;
+    }
+    
 }
